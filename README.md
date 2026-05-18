@@ -1,10 +1,10 @@
-# BC+ Streaming
+# Streaming BC+
 
 Meu primeiro projeto Front-End inspirado em plataformas de streaming 🎬
 
 ## 🚧 Projeto em desenvolvimento
 
-Este projeto ainda não está finalizado e continuará recebendo melhorias conforme avanço nos meus estudos de Front-End.
+Este projeto ainda não está finalizado e continuará melhorando conforme avanço nos meus estudos de Front-End.
 
 Algumas funcionalidades e melhorias que ainda pretendo adicionar:
 
@@ -15,7 +15,7 @@ Algumas funcionalidades e melhorias que ainda pretendo adicionar:
 - novas páginas
 - interações com JavaScript
 
-Mesmo ainda em desenvolvimento, decidi publicar o projeto para acompanhar minha evolução como desenvolvedora e compartilhar meu aprendizado.
+Mesmo ainda em desenvolvimento, decidi publicar o projeto para acompanhar minha evolução e compartilhar meu aprendizado.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -26,7 +26,7 @@ Mesmo ainda em desenvolvimento, decidi publicar o projeto para acompanhar minha 
 - GitHub
 - Vercel
 
-## 🌐 Deploy
+## 🌐 site
 
 Projeto online:
 https://bc-plus-streaming.vercel.app
