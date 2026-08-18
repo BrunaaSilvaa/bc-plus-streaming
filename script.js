@@ -5,3 +5,5 @@ const menuLinks = document.querySelector('.mobile__links')
 menuBtn.addEventListener('click', () => {
     menuLinks.classList.toggle('active')
 } )
+
+alert ('script carregado')
